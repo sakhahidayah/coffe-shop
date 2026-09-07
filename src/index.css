@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  /* ===== Brew Haven Color Palette ===== */
+
+  /* Background */
+  --color-coffee-50: #fdf8ee;
+  --color-coffee-100: #f7ecd6;
+  --color-coffee-200: #e8d4b3;
+
+  /* Secondary / Muted */
+  --color-coffee-300: #d6bb91;
+  --color-coffee-400: #b88957;
+
+  /* Primary */
+  --color-coffee-500: #8b5a2b;
+  --color-coffee-600: #6f431f;
+
+  /* Dark */
+  --color-coffee-700: #4e2f16;
+  --color-coffee-800: #3a2411;
+  --color-coffee-900: #2a180c;
+
+  /* Accent */
+  --color-coffee-accent: #d94f16;
+
+  /* Semantic colors */
+  --color-background: #fdf8ee;
+  --color-surface: #fffaf0;
+  --color-primary: #8b5a2b;
+  --color-primary-hover: #6f431f;
+  --color-accent: #d94f16;
+  --color-text: #4e2f16;
+  --color-text-muted: #b88957;
+  --color-border: #e8d4b3;
+
+  --color-inline: #feedae;
+  --color-button: #973c00;
+  --color-button-hover: #bb4d00;
+  --color-navbar: #a85b26;
+}
